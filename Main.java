@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LuckyRacer{
+public class Main{
 	
 	public static void main(String args[]){
 	
